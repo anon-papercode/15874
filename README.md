@@ -2,6 +2,8 @@
 
 Welcome to the anonymous repository of Vector Grimoire! 🧙
 
+![Emojis reconstruction](Showcase/image.png?raw=true)
+
 # Installation
 
 ```bash
